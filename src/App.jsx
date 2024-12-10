@@ -3,7 +3,7 @@ function App() {
   
   return (
    <>
-   <h1>This wil;l be deployed</h1>
+   <h1>This will be deployed</h1>
    </>
   )
 }
